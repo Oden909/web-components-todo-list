@@ -105,6 +105,7 @@ class TaskList extends HTMLElement {
             .task-item .task-text {
                 flex: 1;
                 word-break: break-word;
+                margin-left: 10px;
             }
     
             .task-item.completed {
